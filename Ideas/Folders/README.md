@@ -1,6 +1,4 @@
-# Links style
-
-The idea is to assign unique ids for each note.
+# Folders
 
 - [Flat structure](<./Flat structure/README.md>)
 - [Folders for hierarchy](<./Folders for hierarchy/README.md>)
