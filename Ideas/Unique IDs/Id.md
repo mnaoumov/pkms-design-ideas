@@ -1,8 +1,10 @@
+# Id
+
+```markdown
 ---
 id: 39beade3967f4cacafe307372c943785
 ---
-
-# Id
+```
 
 `id` key is added to the frontmatter.
 

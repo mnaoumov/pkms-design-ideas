@@ -1,10 +1,12 @@
+# Id with alias
+
+```markdown
 ---
 id: 39beade3967f4cacafe307372c943785
 aliases:
   - 39beade3967f4cacafe307372c943785
 ---
-
-# Id with alias
+```
 
 `id` key is added to the frontmatter and duplicated as an alias.
 
