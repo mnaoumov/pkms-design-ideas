@@ -17,4 +17,4 @@
 ## Cons
 
 - Verbose
-- Paths with space are unreadable
+- Paths with spaces are unreadable
