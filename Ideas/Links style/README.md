@@ -1,7 +1,7 @@
 # Links style
 
-- [Wikilinks](<./Wikilinks.md>)
-- [Markdown](<./Markdown.md>)
-- [Markdown with angle brackets](<./Markdown with angle brackets.md>)
+- [Wikilinks](<./Wikilinks.md>).
+- [Markdown](<./Markdown.md>).
+- [Markdown with angle brackets](<./Markdown with angle brackets.md>).
 
-**Author's choice**: Markdown with angle brackets with explicit `./` or `../` prefix
+**Author's choice**: Markdown with angle brackets with explicit `./` or `../` prefix.

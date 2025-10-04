@@ -1,6 +1,6 @@
 # Folders
 
-- [Flat structure](<./Flat structure/README.md>)
-- [Folders for hierarchy](<./Folders for hierarchy/README.md>)
+- [Flat structure](<./Flat structure/README.md>).
+- [Folders for hierarchy](<./Folders for hierarchy/README.md>).
 
-**Author's choice**: Folders for hierarchy
+**Author's choice**: Folders for hierarchy.

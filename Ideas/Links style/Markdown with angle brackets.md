@@ -11,12 +11,12 @@
 
 ## Pros
 
-- Inherently relative path
-- Work in all tools
-- Paths with space are readable
+- Inherently relative path.
+- Work in all tools.
+- Paths with space are readable.
 
 ## Cons
 
-- Verbose
-- Paths that don't start with `./` or `../` have a potential [bug](https://forum.obsidian.md/t/add-settings-to-control-link-resolution-mode/69560) in Obsidian
+- Verbose.
+- Paths that don't start with `./` or `../` have a potential [bug](https://forum.obsidian.md/t/add-settings-to-control-link-resolution-mode/69560) in Obsidian.
 
