@@ -28,3 +28,4 @@
 - Supported by less tools
 - Non-relative links are ambiguous, depend on which folder is opened as a vault root
 - Allows to ignore folder hierarchy
+- Paths that don't start with `./` or `../` have a potential [bug](https://forum.obsidian.md/t/add-settings-to-control-link-resolution-mode/69560) in Obsidian

@@ -18,3 +18,4 @@
 
 - Verbose
 - Paths with spaces are unreadable
+- Paths that don't start with `./` or `../` have a potential [bug](https://forum.obsidian.md/t/add-settings-to-control-link-resolution-mode/

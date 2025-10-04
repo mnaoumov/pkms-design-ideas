@@ -18,4 +18,5 @@
 ## Cons
 
 - Verbose
+- Paths that don't start with `./` or `../` have a potential [bug](https://forum.obsidian.md/t/add-settings-to-control-link-resolution-mode/69560) in Obsidian
 
