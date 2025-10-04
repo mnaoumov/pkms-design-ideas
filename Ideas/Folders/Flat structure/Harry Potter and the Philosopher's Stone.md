@@ -1,4 +1,4 @@
-Author: [J.K. Rowling](./J.K. Rowling.md)
+Author: [J.K. Rowling](<./J.K. Rowling.md>)
 
 Series: [Harry Potter](<./Harry Potter.md>)
 
